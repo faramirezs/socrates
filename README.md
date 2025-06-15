@@ -142,15 +142,20 @@ interface User {
 - **Error Recovery**: Exponential backoff and graceful failure handling
 - **State Persistence**: Maintain monitoring state across VS Code restarts
 
-### 🎨 **Phase 2.3: UI Integration** (Planned)
+### 🎨 **Phase 2.3: UI Integration** (In Progress)
 - **Status Bar Integration**: Minimal icon with dynamic tooltips
 - **Export Status**: Real-time feedback on export operations
 - **Theme Integration**: Seamless VS Code theme compatibility
 - **Accessibility**: Full screen reader and keyboard navigation support
 
-### 🌐 **Phase 3: Remote Agent Integration** (Future)
+### 🌐 **Phase 3: Remote Agent Integration** (In Progess)
 
 #### 🤖 **n8n Workflow Integration**
+
+![Agent ECHO n8n Workflow](telegram-cloud-photo-size-1-5075828042047270840-y.jpg)
+
+*Agent ECHO n8n Workflow - Updates the memory bank in real time as part of the Socratic Coding Tutor system*
+
 - **Chat History Streaming**: Automatically send exported chat sessions to remote n8n workflows
 - **Webhook Integration**: Configurable endpoints for real-time chat data transmission
 - **Batch Processing**: Efficient bulk export of historical sessions to n8n agents
