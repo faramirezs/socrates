@@ -2,6 +2,8 @@
 
 > **Preserve and organize your GitHub Copilot chat history with intelligent export and documentation capabilities**
 
+🧠 **Part of the [Socratic Coding Tutor](https://github.com/faramirezs/socratic-coding-tutor) ecosystem** - This extension leverages the memory-bank file system that enables persistent memory for learning with AI, creating a comprehensive knowledge management system for developers.
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
