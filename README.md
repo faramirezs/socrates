@@ -132,7 +132,6 @@ interface User {
   isActive?: boolean;
 }
 ```
-```
 
 ## 🛣️ Roadmap
 
